@@ -4,7 +4,7 @@ import logo from "../assets/images/logo.jpeg";
 export default function Navbar() {
   return (
     <nav
-      className="navbar navbar-expand-lg"
+      className="navbar navbar-expand-lg navbar-dark"
       style={{ backgroundColor: "#14235C", color: "white" }}
     >
       <div className="container-fluid ms-3">
