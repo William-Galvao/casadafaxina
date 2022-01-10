@@ -1,9 +1,10 @@
 body {
   font-family: "Work Sans", sans-serif;
+  padding: 5px;
 }
 
 .nav-link {
   color: white !important;
   font-family: "Work Sans", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
 }

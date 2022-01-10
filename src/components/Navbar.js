@@ -9,7 +9,7 @@ export default function Navbar() {
     >
       <div className="container-fluid ms-3">
         <Link to="/">
-          <img src={logo} alt="Casa da Faxina Logo" width="120px" />
+          <img src={logo} alt="Casa da Faxina Logo" width="80px" />
         </Link>
         <button
           className="navbar-toggler"
