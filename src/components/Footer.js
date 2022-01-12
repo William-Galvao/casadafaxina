@@ -26,7 +26,8 @@ export default function Footer() {
           descartáveis
         </p>
         <p className="p-font-footer" style={{ marginTop: "-20px" }}>
-          Rua Padre Roberto Sabóia de Medeiros, 30 - Paissandu / Nova Friburgo
+          Rua Padre Roberto Sabóia de Medeiros, 23 - Loja 05 - Paissandu / Nova
+          Friburgo
         </p>
         <p className="p-font-footer" style={{ marginTop: "-20px" }}>
           (21) 99931-3595 / (21) 99620-3830 / (22) 2521-1640
