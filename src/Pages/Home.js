@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Navbar />
-      <a rel="noreferrer" target="_blank" href="https://wa.me/+552199931-3595">
+      <a rel="noreferrer" target="_blank" href="https://wa.me/+5521999313595">
         <img src={whats} alt="Whatsapp" className="whats-icon" />
       </a>
       <div className="row d-flex align-items-center pt-5 pb-5">
