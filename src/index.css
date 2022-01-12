@@ -1,9 +1,33 @@
 body {
   font-family: "Work Sans", sans-serif;
+  padding: 5px;
 }
 
 .nav-link {
   color: white !important;
   font-family: "Work Sans", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
+}
+
+.p-font-main {
+  font-size: 1.5rem;
+  font-family: "Work Sans", sans-serif;
+}
+
+.whats-icon {
+  position: fixed;
+  top: 140px;
+  right: 70px;
+  width: 60px;
+  height: auto;
+}
+
+.footer-style {
+  background-color: #14225c28;
+  color: #14235c;
+}
+
+.p-font-footer {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
 }
