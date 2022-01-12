@@ -9,14 +9,15 @@ body {
   font-size: 16px;
 }
 
-.p-one {
-  animation: reveal 4s infinite;
+.p-font {
+  font-size: 1.5rem;
+  font-family: "Work Sans", sans-serif;
 }
 
-.p-two {
-  animation: reveal 6s infinite;
-}
-
-.p-three {
-  animation: reveal 8s infinite;
+.whats-icon {
+  position: fixed;
+  top: 140px;
+  right: 70px;
+  width: 60px;
+  height: auto;
 }
