@@ -20,7 +20,7 @@ export default function Footer() {
           <img src={instagram} alt="instagram" width="40px" className="mx-3" />
         </a>
       </div>
-      <div className="p-3">
+      <div className="p-3 p-font-footer">
         <p style={{ textAlign: "center" }}>
           Casa da Faxina | Produtos de limpeza, higiene, perfumaria e
           descartáveis
